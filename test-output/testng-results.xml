@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38744" started-at="2020-06-13T15:55:56Z" finished-at="2020-06-13T15:56:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38744" started-at="2020-06-13T15:55:56Z" finished-at="2020-06-13T15:56:35Z">
+      <class name="Tests.BookARide">
+        <test-method status="PASS" signature="StartDriver()[pri:0, instance:Tests.BookARide@79ca92b9]" name="StartDriver" is-config="true" duration-ms="10826" started-at="2020-06-13T15:55:45Z" finished-at="2020-06-13T15:55:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartDriver -->
+        <test-method status="PASS" signature="BookRideTestCase()[pri:0, instance:Tests.BookARide@79ca92b9]" name="BookRideTestCase" duration-ms="38725" started-at="2020-06-13T15:55:56Z" finished-at="2020-06-13T15:56:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookRideTestCase -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:Tests.BookARide@79ca92b9]" name="closeDriver" is-config="true" duration-ms="695" started-at="2020-06-13T15:56:35Z" finished-at="2020-06-13T15:56:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- Tests.BookARide -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
